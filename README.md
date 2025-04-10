@@ -42,7 +42,4 @@ This is a simple blog viewer web application built using **HTML**, **CSS**, and 
 
 ---
 
-## 📸 Preview
-
-![Preview Screenshot](preview.png) 
 
